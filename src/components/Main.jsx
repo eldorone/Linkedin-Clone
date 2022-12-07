@@ -259,7 +259,7 @@ function Main(props) {
 		<Container>
 			<ShareBox>
 				<div>
-					{props.user.photoURL ? <img src={props.user.photoURL} alt="" /> : <img src="/images/user.svg" alt="" />}
+					{<img src="/images/user.svg" alt="" />}
 					<button onClick={clickHandler} disabled={props.loading ? true : false}>
 						Start a post
 					</button>
