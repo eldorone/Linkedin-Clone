@@ -1,8 +1,26 @@
-# LinkedIn Clone
+## Mobile responsive Linkedin Clone website built with: 
+ - React JS 
+ - Redux 
+ - Firebase
+ - Styled-Components
 
-![LinkedIn Clone Demo](linkedin-gif.gif)
+## Check-out the website demo: [Linkedin Clone]()
 
-**_Built using React JS, Redux, Firebase & Styled-Components_** within a week. My first project after learning React JS referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
+## Sign in Page Layout:
+
+![Linkedin Clone](https://user-images.githubusercontent.com/37968028/206279128-00efca08-6efc-4cbe-a538-fc5b00f9d253.png)
+
+## Home Page Layout:
+
+![Linkedin Clone](https://user-images.githubusercontent.com/37968028/206280272-51931d18-ee99-4dfc-b1d2-38ce7ba0ebbb.png)
+
+## Post Page Layout:
+
+![Linkedin Clone](https://user-images.githubusercontent.com/37968028/206280574-222e3f11-383a-4375-bab0-c72952399c0b.png)
+
+ <br />
+
+## Added some features apart from the tutorial on my own like:
 
 -   Post like functionality
 -   Mobile responsiveness
@@ -67,12 +85,4 @@
         firebase deploy
         ```
 
-**That's it our clone is up and running share it now**
-
-## Future Plans
-
--   Might add more login methods
--   Post deleting functionality
--   Add comments on post
-
-**_NOTE: PLEASE LET ME KNOW IF YOU DISCOVERED ANY BUG OR YOU HAVE ANY SUGGESTIONS_**
+### That's it our clone is up and running! Have fun!
