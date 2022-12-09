@@ -1,4 +1,4 @@
-import db, { auth, provider, storage } from "../firebase";
+import db, { auth, provider, storage } from "../firebase/firebase";
 import { SET_LOADING_STATUS, SET_USER, GET_ARTICLES } from "./actionType";
 
 export function setUser(payload) {
