@@ -141,7 +141,7 @@ const Google = styled.button`
 function Login(props) {
 	return (
 		<Container>
-			{props.user && <Redirect to="/feed" />}
+			{props.user && <Redirect to="/home" />}
 			<Nav>
 				<a href="/">
 					<img src="/images/login-logo.svg" alt="" />
