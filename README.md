@@ -4,7 +4,7 @@
  - Firebase
  - Styled-Components
 
-## Check-out the website demo: [Linkedin Clone](https://linkedin-clone-eldorone.vercel.app/)
+## Check-out the website demo: [Linkedin Clone](https://linkedin-clone-vert.vercel.app/)
 
 ## Sign in Page Layout:
 
